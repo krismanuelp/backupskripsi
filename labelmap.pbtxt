@@ -1,0 +1,18 @@
+item {
+  id: 1
+  name: 'Tablet'
+}
+
+item {
+  id: 2
+  name: 'Laptop'
+}
+
+item {
+  id: 3
+  name: 'HP'
+}
+
+
+
+
